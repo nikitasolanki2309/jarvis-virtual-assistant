@@ -1,19 +1,26 @@
-# Python virtual environment
+# Python virtual environments
 .venv/
 venv/
+env/
 
 # Python cache files
 __pycache__/
 *.py[cod]
+*$py.class
 
-# API keys and environment variables
+# Environment variables and API credentials
 .env
 .env.*
+!.env.example
+
+# API key and secret files
+secrets.json
+credentials.json
 
 # VS Code settings
 .vscode/
 
-# Files containing API keys or unrelated code
+# Local files excluded from the project
 /main.py
 /client.py
 
