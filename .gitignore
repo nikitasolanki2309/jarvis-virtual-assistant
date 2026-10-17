@@ -1,0 +1,26 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# API keys and environment variables
+.env
+.env.*
+
+# VS Code settings
+.vscode/
+
+# Files containing API keys or unrelated code
+/main.py
+/client.py
+
+# Temporary testing files
+/ex.py
+/ex2.py
+
+# Local screenshots
+/screenshots/
+/screenshot_20260923_173252.png
