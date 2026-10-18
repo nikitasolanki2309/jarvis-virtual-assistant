@@ -1,3 +1,9 @@
+<div align="center">
+
+![Jarvis Virtual Assistant Banner](assets/jarvis-banner.png)
+
+</div>
+
 # 🤖 Jarvis - AI-Powered Virtual Assistant
 
 A Python-based virtual assistant that combines voice interaction, AI-powered responses, and desktop automation to make everyday computer tasks easier.
