@@ -66,6 +66,48 @@ Jarvis listens for its activation name, processes voice commands, and responds t
 - **Requests** — HTTP requests for supported online services.
 - **Git & GitHub** — version control and project hosting.
 
+## 📸 Project Screenshots
+
+Explore Jarvis in action through these screenshots, showcasing its interface and capabilities.
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="screenshots-jarvis/Screenshot1.png" alt="Jarvis Screenshot 1" width="100%">
+<br><b>Screenshot 1</b>
+</td>
+<td align="center" width="50%">
+<img src="screenshots-jarvis/Screenshot2.png" alt="Jarvis Screenshot 2" width="100%">
+<br><b>Screenshot 2</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="screenshots-jarvis/Screenshot3.png" alt="Jarvis Screenshot 3" width="100%">
+<br><b>Screenshot 3</b>
+</td>
+<td align="center" width="50%">
+<img src="screenshots-jarvis/Screenshot4.png" alt="Jarvis Screenshot 4" width="100%">
+<br><b>Screenshot 4</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="screenshots-jarvis/Screenshot5.png" alt="Jarvis Screenshot 5" width="100%">
+<br><b>Screenshot 5</b>
+</td>
+<td align="center" width="50%">
+<img src="screenshots-jarvis/Screenshot6.png" alt="Jarvis Screenshot 6" width="100%">
+<br><b>Screenshot 6</b>
+</td>
+</tr>
+</table>
+
+</div>
+
+
 ## 📁 Project Structure
 
 ```text
