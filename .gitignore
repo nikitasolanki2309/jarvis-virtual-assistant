@@ -31,3 +31,6 @@ credentials.json
 # Local screenshots
 /screenshots/
 /screenshot_20260923_173252.png
+
+# Windows configuration files
+desktop.ini
